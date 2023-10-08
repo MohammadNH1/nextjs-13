@@ -1,0 +1,1 @@
+this route for dynamic route and the other type of route

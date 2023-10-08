@@ -1,0 +1,1 @@
+using client component inside the server components
